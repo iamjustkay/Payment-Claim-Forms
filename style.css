@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    text-align: center;
+    width: 100%;
+}
+.head h1{
+    float: left;
+    margin: 20px 25%;
+    
+}
+.head img{
+    margin: 10px 40px;
+    width: 80px;
+    height: 80px;
+}
+
+.head1{
+    width: 100%;
+    text-align: center;
+}
+
+.info{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 300px;
+}
+
+.para{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+    color: red;
+}
+
+.info2{
+    width: 100%;
+    padding-top: 70px;
+}
+.head3{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.remarks{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.footer{
+    text-align: center;
+}
+.footer p{
+    width: 100%;
+    text-align: center;
+    
+
+}
+.f{
+    float: left;
+    text-align: center;
+    margin: 5px 150px;
+    padding-top: 10px;
+}
+.table-light{
+    border: none;
+    background-color: transparent;
+}
+#in1{
+    width: 450px;
+}
+
+.reform{
+    padding-top: 60px;
+    width: 100%;
+}
+
+.date{
+    border: none;
+    text-align: center;
+    background-color: transparent;
+}
+
+.h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
